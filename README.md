@@ -1,7 +1,6 @@
 ## Hi there 👋
 i am Rakesha M S 
-Now i am learning Java Back-end Develpment 
-
+🌱 I’m currently learning Java Back-end Develpment .
 <!--
 **rakeshams3/rakeshams3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
