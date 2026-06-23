@@ -1,6 +1,6 @@
 ## Hi there 👋
-- i am Rakesha M S 
-- 🌱 I’m currently learning Java Back-end Develpment .
+- i am Rakesha Mudaganduru 
+- 🌱 I’m currently learning Java Back-end Develpment in KodNest  .
 <!--
 **rakeshams3/rakeshams3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
